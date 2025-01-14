@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e825b133-e88a-4db6-9418-644af907fad0" name="Changes" comment="how to extract rgb valures from images">
+    <list default="true" id="e825b133-e88a-4db6-9418-644af907fad0" name="Changes" comment="painting dots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -87,11 +87,20 @@
       <option name="project" value="LOCAL" />
       <updated>1736869878112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="painting dots">
+      <option name="closed" value="true" />
+      <created>1736871320718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736871320718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="how to extract rgb valures from images" />
-    <option name="LAST_COMMIT_MESSAGE" value="how to extract rgb valures from images" />
+    <MESSAGE value="painting dots" />
+    <option name="LAST_COMMIT_MESSAGE" value="painting dots" />
   </component>
 </project>
